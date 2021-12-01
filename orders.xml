@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <orderNr>1000</orderNr>
+    <productCode>MW97</productCode>
+    <quantity>100</quantity>
+    <description>MicroWare Office</description>
+    <salesPrice>305</salesPrice>
+    <customer>
+        <customerNr>1317</customerNr>
+        <street>15, London Road</street>
+        <town>London</town>
+        <name>Willians</name>
+        <postCode>rgt453</postCode>
+    </customer>
+    <orderDate>2021-12-01T17:03:15.990Z</orderDate>
+</order>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <orderNr>1002</orderNr>
+    <productCode>XM21</productCode>
+    <quantity>5</quantity>
+    <description>XVision Monitor</description>
+    <salesPrice>712</salesPrice>
+    <customer>
+        <customerNr>1317</customerNr>
+        <street>15, London Road</street>
+        <town>London</town>
+        <name>Willians</name>
+        <postCode>rgt453</postCode>
+    </customer>
+    <orderDate>2021-12-01T17:03:15.990Z</orderDate>
+</order>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <orderNr>1003</orderNr>
+    <productCode>DS96</productCode>
+    <quantity>3</quantity>
+    <description>IPhone 22</description>
+    <salesPrice>410</salesPrice>
+    <customer>
+        <customerNr>1036</customerNr>
+        <street>22, Gresham Court</street>
+        <town>Manchester</town>
+        <name>Smith</name>
+        <postCode>uyt6355</postCode>
+    </customer>
+    <orderDate>2021-12-01T17:03:15.990Z</orderDate>
+</order>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <orderNr>1004</orderNr>
+    <productCode>MW97</productCode>
+    <quantity>200</quantity>
+    <description>MicroWare Office</description>
+    <salesPrice>305</salesPrice>
+    <customer>
+        <customerNr>1036</customerNr>
+        <street>22, Gresham Court</street>
+        <town>Manchester</town>
+        <name>Smith</name>
+        <postCode>uyt6355</postCode>
+    </customer>
+    <orderDate>2021-12-01T17:03:15.990Z</orderDate>
+</order>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <orderNr>1005</orderNr>
+    <productCode>ASM2</productCode>
+    <quantity>20</quantity>
+    <description>Activan</description>
+    <salesPrice>55</salesPrice>
+    <customer>
+        <customerNr>1036</customerNr>
+        <street>22, Gresham Court</street>
+        <town>Manchester</town>
+        <name>Smith</name>
+        <postCode>uyt6355</postCode>
+    </customer>
+    <orderDate>2021-12-01T17:03:15.990Z</orderDate>
+</order>

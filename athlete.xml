@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<athlete>
+    <achievements>test1</achievements>
+    <achievements>test2</achievements>
+    <achievements>test3</achievements>
+    <nationalTeam>Jamaica</nationalTeam>
+    <person id="1">
+        <name>Usain</name>
+        <age>37</age>
+        <gender>Male</gender>
+    </person>
+</athlete>
